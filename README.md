@@ -15,11 +15,11 @@ Have FUN, or NOT ;(
 
 ### for the whole Page:
 ```js
-c15c0d15c0.initDisco(`Milliseconds`);
+c15c0d15c0.initDisco(<Milliseconds>);
 ```
 ### for one Class/ID/Tag-Name:
 ```js
-c15c0d15c0.initDiscoFor(`Milliseconds`, `.class/#id/tag`);
+c15c0d15c0.initDiscoFor(<Milliseconds>, `.class/#id/tag`);
 ```
 
 ---
